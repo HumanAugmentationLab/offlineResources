@@ -1,4 +1,4 @@
-# offlineResources
+# Offline Resources
 
 This repo contains the matlab code to both load and visualize the offline data provided.
 The EegDataExplanation.txt contains information on the format of the EEG data provided. 
@@ -9,4 +9,5 @@ the time after the two simulations. Later, there may be set up differently, such
 10 seconds after stimulation or until the next stimulation. 
 
 loadData.m = load some data into your workspace, also has some explanation
+
 vizData.m = plot the data on one channel along with the stimulations
